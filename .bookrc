@@ -1,0 +1,22 @@
+{
+  "name": "Japanese Fairy Tales",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/japanese-fairy-tales/master/assets",
+  "book_id": 914,
+  "book_url": "https://bubblin.io/book/japanese-fairy-tales-by-yei-theodora-ozaki"
+}
